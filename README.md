@@ -1,27 +1,11 @@
-# Open RAP Runtime — feedback
+# Open RAP Runtime — feedback (moved)
 
-Bug reports, feature requests and questions about
-[Open RAP Runtime](https://clementringot.github.io/Open-Rap-Runtime/): the `rapt` command, the VS Code
-extension and the applications it generates (OData V4 service, RAP managed runtime, OpenUI5 UI).
+The repository of [Open RAP Runtime](https://github.com/ClementRingot/Open-RAP-Runtime) is public: bug reports and feature requests now go to
+**[its issues](https://github.com/ClementRingot/Open-RAP-Runtime/issues)**.
 
-**[Report a bug](../../issues/new?template=bug_report.yml)** ·
-**[Request a feature](../../issues/new?template=feature_request.yml)** ·
+**[Report a bug](https://github.com/ClementRingot/Open-RAP-Runtime/issues/new?template=bug_report.yml)** ·
+**[Request a feature](https://github.com/ClementRingot/Open-RAP-Runtime/issues/new?template=feature_request.yml)** ·
 or use the [feedback form of the website](https://clementringot.github.io/Open-Rap-Runtime/feedback.html),
 which fills in the version and the environment for you.
 
-Before writing, have a look at the
-[known gaps](https://clementringot.github.io/Open-Rap-Runtime/docs/known_gaps.html) (with their
-workarounds) and at the [open issues](../../issues).
-
-When you report a problem, please include:
-
-- the version (`rapt --help` prints it on its first line, or the version of the VS Code extension);
-- the smallest RAP sources that show it (CDS, BDEF, behavior pool…), or the output of
-  `rapt check <project>`;
-- what you expected, and what happened instead.
-
-Do not paste secrets (tokens, passwords, `.env` files) nor confidential sources: this repository is
-public.
-
-Open RAP Runtime is not affiliated with SAP SE. SAP, ABAP, Fiori and SAP BTP are trademarks of
-SAP SE.
+The issues opened here stay readable.
