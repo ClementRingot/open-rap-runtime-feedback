@@ -6,8 +6,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Before asking, have a look at the [features](https://clementringot.github.io/RAP-Transpiler/docs/features.html)
-        and the [roadmap](https://clementringot.github.io/RAP-Transpiler/docs/roadmap.html).
+        Before asking, have a look at the [features](https://clementringot.github.io/Open-Rap-Runtime/docs/features.html)
+        and the [roadmap](https://clementringot.github.io/Open-Rap-Runtime/docs/roadmap.html).
   - type: dropdown
     id: component
     attributes:

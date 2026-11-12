@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Thanks for the report. This repository is public: do not paste secrets nor confidential sources.
-        Known limitations and their workarounds: [known gaps](https://clementringot.github.io/RAP-Transpiler/docs/known_gaps.html).
+        Known limitations and their workarounds: [known gaps](https://clementringot.github.io/Open-Rap-Runtime/docs/known_gaps.html).
   - type: dropdown
     id: component
     attributes:
